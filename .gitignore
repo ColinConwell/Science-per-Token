@@ -1,0 +1,28 @@
+# IDE + AI
+.vscode/
+.agents/
+.cursor/
+.claude/
+.codex/
+.gemini/
+.cursorignore
+AGENTS.md
+CLAUDE.md
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS-generated
+.DS_Store
+.DS_Store?
+
+# Local secrets
+.env.local
+auth.json
+.credentials.json
+
+# Project
+# Participant AI-usage exports stay local (see guidebook/export-data/)
+ai-data-export/
+ai-data-collection/
+*.zip
